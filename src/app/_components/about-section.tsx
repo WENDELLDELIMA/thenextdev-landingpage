@@ -22,14 +22,26 @@ function AboutSection() {
         </div>
         <div className="lg:order-first lg:row-span-2 text-center md:text-start">
           <h2 className="font-heading text-3xl md:text-4xl lg:text-5xl">
-            Mel jhonsons
+            Wendell Lima
           </h2>
           <p>
             {" "}
-            Mel jhonsons gosta de dorama, Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Velit, dicta sunt. Eius ex ab temporibus
-            consectetur dolore quod natus quam minima similique dicta itaque
-            voluptatem rerum reiciendis quisquam, cum magni?
+            Trabalho na indústria de tecnologia há 12 anos, atuando como
+            programador e cientista de dados. Atualmente, sou Coordenador da
+            área de Desenvolvimento de Sistemas e Ciência de Dados. Meus papéis
+            refletem minha paixão pela comunicação e pelo poder das ideias.
+            <br />
+            <br />
+            Nos momentos de lazer, sou colecionador de videogames e tenho
+            interesse em desvendar o funcionamento dos dispositivos
+            tecnológicos. Criei impressoras 3D, explorei coletores de dados,
+            desenvolvi sensores e até me aventurei na criação de simuladores,
+            sempre com o objetivo de aprender e entender o funcionamento dessas
+            tecnologias. No final, estou apenas me esforçando para ser melhor do
+            que fui ontem, e estou me esforçando antes de me materializar...
+            <br />
+            <br />
+            Vamos Hackear!
           </p>
           <div className="mt-6 flex justify-center md:justify-start gap-6">
             <div className="text-2xl">🥹</div>

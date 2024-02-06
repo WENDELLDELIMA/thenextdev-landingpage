@@ -25,7 +25,7 @@ function IntroSection() {
       </svg>
       <div className="container flex max-w[64rem] flex-col items-center text-center gap-4">
         <span className="rounded-2xl bg-muted px-4 py-1.5 text-sm font-medium flex items-center">
-          🗓️ 1 turma dia 06 de nomebro de 2023
+          🗓️ Um dia esse curso estará a venda, prepare-se!
           <ModeToggle />
         </span>
         <h1 className="font-heading text-4xl md:text-6xl lg:text-7xl">
@@ -35,10 +35,8 @@ function IntroSection() {
         </h1>
 
         <p className="max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur
-          molestiae numquam error ratione, quasi amet quia quaerat repudiandae
-          magnam ipsum, esse alias aperiam maxime voluptatem aliquid voluptates
-          recusandae odio veritatis?
+          Seja o proximo garoto de programa da sua familia, ganhe dinheiro se
+          f#dendo do jeito não literal da coisa!
         </p>
         <div className="space-x-4">
           <a
